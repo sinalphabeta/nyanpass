@@ -1,0 +1,10 @@
+{
+    "clientScript": "https://dispatch.nyafw.com/download/nyanpass-install.sh",
+    "clientScriptOverseas": "https://dl.nyafw.com/download/nyanpass-install.sh",
+    "enableFunctions": [],
+    "offlinePkgs": {
+        "nc20260412_linux_amd64.zip": "https://dl.nyafw.com/download/ny-offline-nc20260412-c5ed254c-91f2-445b-bf6d-349469852f61/nc20260412_linux_amd64.zip",
+        "nc20260412_linux_amd64v3.zip": "https://dl.nyafw.com/download/ny-offline-nc20260412-c5ed254c-91f2-445b-bf6d-349469852f61/nc20260412_linux_amd64v3.zip",
+        "nc20260412_linux_arm64.zip": "https://dl.nyafw.com/download/ny-offline-nc20260412-c5ed254c-91f2-445b-bf6d-349469852f61/nc20260412_linux_arm64.zip"
+    }
+}

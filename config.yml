@@ -1,0 +1,7 @@
+# 数据库使用 sqlite3
+database-path: "sqlite3://data.db"
+
+listen: 127.0.0.1:18888
+
+key: xxxxxx
+
